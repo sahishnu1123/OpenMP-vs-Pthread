@@ -66,11 +66,11 @@ For executing the program:
 
 ### Input to the Program
 
-Input to the program is read from the file **input.txt**. The **input.txt** is generated using the python file **sudoku.py**.
+Input to the program is read from the file **input.txt**. The **input.txt** is generated using the python file **testgen.py**.
 
 Run the python file by:
 
-    python3 sudoku.py N
+    python3 testgen.py N
 
 **N:** Size of the sudoku i.e., in the **input.txt** file we get a valid sudoku of size N*N.
 
